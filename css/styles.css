@@ -1,0 +1,29 @@
+.modal-footer {   
+	border-top: 0px; 
+	
+}
+.modal-header{
+	text-align: center;
+}
+*{
+	background-color: #fff;
+}
+#titulo{
+	text-align: center;
+}
+.form-group,.page-header{
+	text-align: justify;
+	
+}
+h2{
+	text-align: center;
+}
+.btn-primary{
+	
+}
+section{
+	width: 200px;
+	height: 200px;
+	position: relative;;
+	margin: auto;
+}
